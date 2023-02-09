@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-section {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1020px;
+    margin-bottom: 100px;
+
+
+}
+
+* {
+    margin: 0;
+}
+
+.header-text {
+    color: white;
+    text-align: right;
+    margin-right: 200px;
+    padding-top: 200px;
+}
+
+.header-section h1 {
+    font-size: 70px;
+}
+
+.header-text p {
+    text-align: right;
+    font-size: 20px;
+}
+
+.contact-button {
+    font-size: 20px;
+    font-weight: 700;
+    color: #005FAC;
+    margin-top: 50px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.header-paragraph {
+    text-align: right;
+}
